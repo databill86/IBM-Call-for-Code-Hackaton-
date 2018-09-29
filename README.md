@@ -12,4 +12,4 @@ Run server.py
 
 # Drone-PI
 
-This is laraspberry pi which is responsible for running the script dathunter.py which will be waiting to connect to a server to receive the data in a csv file.
+This is laraspberry pi which is responsible for running the script datahunter.py which will be waiting to connect to a server to receive the data in a csv file. Once we have all the collected data, we process it to send it to the cloud with the Proccess.py script.
