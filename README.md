@@ -12,6 +12,10 @@ Run server.py
 
 # Drone-PI
 
-![Screenshot]()
+![Screenshot](https://github.com/genesisrrios/IBM-Call-for-Code-Hackaton-/blob/master/other/Zoe1.jpg)
 
 This is laraspberry pi which is responsible for running the script datahunter.py which will be waiting to connect to a server to receive the data in a csv file. Once we have all the collected data, we process it to send it to the cloud with the Proces.py script.
+
+For search Data run datahunter.py
+
+for process data run Proces.py
