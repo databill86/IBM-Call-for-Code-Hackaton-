@@ -1,5 +1,9 @@
 IBM-Call-for-Code-Hackaton-
 
+# Materials
+
+![Screenshot](https://github.com/genesisrrios/IBM-Call-for-Code-Hackaton-/blob/master/other/Screen%20Shot%202018-08-16%20at%2010.36.08%20PM.png)
+
 # Home-PI
 
 ![Screenshot](https://github.com/genesisrrios/IBM-Call-for-Code-Hackaton-/blob/master/other/Screen%20Shot%202018-09-28%20at%208.54.57%20PM.png)
